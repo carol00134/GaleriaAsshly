@@ -8,7 +8,7 @@ import handlebars from 'vite-plugin-handlebars';
 import hbsContext  from './context/indexPage';
 export default defineConfig(
     {
-        base: '/',
+        base: '/GaleriaAsshly/',
         appType: 'mpa',
         build: {
             rollupOptions: {
