@@ -8,7 +8,7 @@ import handlebars from 'vite-plugin-handlebars';
 import hbsContext  from './context/indexPage';
 export default defineConfig(
     {
-        base: '/Galeria/',
+        base: '/galeria/',
         appType: 'mpa',
         build: {
             rollupOptions: {
